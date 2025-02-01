@@ -176,7 +176,8 @@ Key Differences Summarized:
 
 Understanding these differences is crucial for effectively managing asynchronous operations in JavaScript. Choose the method that best suits your specific needs based on how you want to handle the outcomes of multiple promises.
 
-
+## What is a closure?
+Closure is when a function is able to remember and access its lexical scope even when that function is executing outside its lexical scope
 
 
 
